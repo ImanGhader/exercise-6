@@ -1,0 +1,19 @@
+/* TEAM */
+
+Designer & Developer: Iman Ghader
+Site: http://behance.com/imanghader
+Twitter: @imanghader
+Location: Ottawa, Canada
+
+
+
+/* THANKS */
+
+Thanks to Tiffany my professor for making me a code Ninja.
+
+
+/* SITE */
+Last update: 2013/11/15
+Standards: HTML5, CSS3
+Components: Modernizr, Jquery, etc...
+Software: Adobe, Livereload, Sublime Text 2
